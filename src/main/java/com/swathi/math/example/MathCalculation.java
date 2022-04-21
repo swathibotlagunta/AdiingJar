@@ -13,6 +13,9 @@ public class MathCalculation {
 	
           System.out.println("hi");
           System.out.println("10 + 10 : " +(Operation.add(10,10)));
+          System.out.println("10 - 10 : " +(Operation.substract(10,10)));
+          System.out.println("10 * 10 : " +(Operation.multiply(10,10)));
+          System.out.println("10 / 10 : " +(Operation.divide(10,10)));
           
 }
 	
